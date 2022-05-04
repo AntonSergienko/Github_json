@@ -1,5 +1,9 @@
 {
-  "bud":"report",
-  "bug":"report",
-"bug":"report"
+  "summary":"vadim home work",
+  "project":"studiyng",
+  "component":"left hemisphere of the brain",
+  "version OS":"windows007",
+  "severity":"S4 minor",
+  "priority":"P3 low",
+  "status":"online"
 }
